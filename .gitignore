@@ -1,0 +1,8 @@
+approot/vendor
+approot/web/core
+
+approot/web/sites/*/settings*.php
+approot/web/sites/*/services*.yml
+
+approot/web/sites/*/files
+approot/web/sites/*/private
